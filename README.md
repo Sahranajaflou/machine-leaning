@@ -3,12 +3,9 @@ ONLINE RETAIL CUSTOMER ANALYSIS:
 
 ![pic1](https://github.com/user-attachments/assets/af365629-5fc7-412e-9d30-8e0b38eb2c19)
 
-Project Overview
+**Project Overview*8
 
-This project analyzes a comprehensive dataset from a UK-based online retailer specializing in unique gifts, covering all transactions from December 2010 to December 2011. The primary objective is to enhance marketing strategies and boost sales by uncovering patterns in customer behavior, product popularity, and sales trends through Exploratory Data Analysis (EDA) and Principal Component Analysis (PCA).
-
-Goals
-
+This project analyzes a comprehensive dataset from a UK-based online retailer specializing in unique gifts, covering all transactions from December 2010 to December 2011. The primary objective is to enhance marketing strategies and boost sales by uncovering patterns in customer behavior, product popularity, and sales trends through Exploratory Data Analysis (EDA) .
 Conduct thorough Exploratory Data Analysis (EDA) to understand customer behavior, product trends, and sales patterns.
 Provide actionable insights to develop targeted marketing strategies, improve customer satisfaction, and increase sales.
 
