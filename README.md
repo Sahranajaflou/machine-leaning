@@ -1,23 +1,21 @@
-# machine-leaning
 ONLINE RETAIL CUSTOMER ANALYSIS:
 
 ![pic1](https://github.com/user-attachments/assets/af365629-5fc7-412e-9d30-8e0b38eb2c19)
 
-**Project Overview*8
+**Project Overview**
 
 This project analyzes a comprehensive dataset from a UK-based online retailer specializing in unique gifts, covering all transactions from December 2010 to December 2011. The primary objective is to enhance marketing strategies and boost sales by uncovering patterns in customer behavior, product popularity, and sales trends through Exploratory Data Analysis (EDA) .
 Conduct thorough Exploratory Data Analysis (EDA) to understand customer behavior, product trends, and sales patterns.
 Provide actionable insights to develop targeted marketing strategies, improve customer satisfaction, and increase sales.
 
-
-Problem Statement
+**Problem Statement**
 
 As online retail grows, businesses struggle to extract meaningful insights from complex, high-dimensional customer data. This project addresses this challenge by:
 Performing detailed EDA to explore every aspect of the dataset.
 Laying the foundation for improved marketing strategies and customer engagement to drive sales.
 
 
-Dataset Description
+**Dataset Description**
 
 The dataset, sourced from a UK-based online retailer, captures all transactions between December 2010 and December 2011. It includes detailed records of:
 
@@ -28,7 +26,7 @@ Purchase history
 The retailer specializes in unique gifts, with many customers being wholesalers. This dataset is widely used for customer segmentation, clustering, customer relationship analysis, and recommendation system development
 
 
-Methodology
+**Methodology**
 
 This project focuses on two key analytical steps:
 
@@ -37,5 +35,6 @@ Exploratory Data Analysis (EDA): A comprehensive examination of each dataset col
 
 
 
-Suggested Next Steps
+**Suggested Next Steps**
+
 Develop a recommendation system to suggest products tailored to customer preferences and behavior patterns.
