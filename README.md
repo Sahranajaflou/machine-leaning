@@ -35,16 +35,16 @@ This project employs a structured approach to analyze the Online Retail Dataset,
 **1. Data Loading and Preprocessing:**
 
 
-Load the dataset (E-Commerce_Data.csv) containing 541,909 transactions and 8 columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
+- Load the dataset (E-Commerce_Data.csv) containing 541,909 transactions and 8 columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 
-Handle data quality issues, such as replacing negative UnitPrice values with zero to ensure valid pricing data for analysis, as shown in the notebook.
-Additional preprocessing (to be implemented):
+- Handle data quality issues, such as replacing negative UnitPrice values with zero to ensure valid pricing data for analysis, as shown in the notebook.
+- Additional preprocessing (to be implemented):
 
-Remove or impute missing values (e.g., in CustomerID or Description).
+- Remove or impute missing values (e.g., in CustomerID or Description).
 
-Convert InvoiceDate to a datetime format for temporal analysis.
+- Convert InvoiceDate to a datetime format for temporal analysis.
 
-Filter out invalid or cancelled transactions (e.g., InvoiceNo starting with 'C').
+- Filter out invalid or cancelled transactions (e.g., InvoiceNo starting with 'C').
 
 
 **2. Exploratory Data Analysis (EDA):**
