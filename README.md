@@ -74,7 +74,7 @@ This project employs a structured approach to analyze the Online Retail Dataset,
 
 **3. Insights and Visualization:**
 
-- Summarize findings from EDA and PCA to identify actionable insights, such as:
+- Summarize findings from EDA to identify actionable insights, such as:
 
    - Key customer segments based on purchase behavior.
 
